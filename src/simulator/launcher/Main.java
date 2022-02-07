@@ -107,6 +107,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		try {
+			System.out.println("hdhd");
 			start(args);
 		} catch (Exception e) {
 			e.printStackTrace();
